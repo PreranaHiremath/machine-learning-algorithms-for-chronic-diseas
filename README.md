@@ -1,0 +1,1 @@
+Applied machine learning algorithms for chronic disease detection, leveraging predictive models such as decision trees, random forests, and neural networks to analyze patient data and identify risk factors with high accuracy
